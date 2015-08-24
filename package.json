@@ -1,7 +1,7 @@
 {
   "name": "position-diff",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the difference in position between two elements",
   "license": "MIT",
   "repository": "bendrucker/position-diff",
