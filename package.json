@@ -1,0 +1,29 @@
+{
+  "name": "position-diff",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Get the difference in position between two elements",
+  "license": "MIT",
+  "repository": "bendrucker/position-diff",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "html",
+    "element",
+    "position",
+    "difference"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
