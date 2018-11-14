@@ -1,4 +1,4 @@
-# position-diff [![Build Status](https://travis-ci.org/bendrucker/position-diff.svg?branch=master)](https://travis-ci.org/bendrucker/position-diff)
+# position-diff [![Build Status](https://travis-ci.org/bendrucker/position-diff.svg?branch=master)](https://travis-ci.org/bendrucker/position-diff) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/position-diff.svg)](https://greenkeeper.io/)
 
 > Get the difference in position between two elements
 
